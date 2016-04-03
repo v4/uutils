@@ -26,5 +26,6 @@ Edit your package.json to select the dependencies to automaticaly load through u
     "uuid": true
   }
 }
+```
 
 Now you can access the `uuid` library through uutils.uuid. 
